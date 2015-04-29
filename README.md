@@ -1,11 +1,19 @@
 # projecto-ainet
-Projecto de Ainet - v0
 
-Estrutura de Pastas:
-* 1
+// LISTA INCOMPLETA - 29/04/2015
 
-* 2
 
-* 3
+* Ainet - 
+	Controllers - controlo de Autenticação, etc
+	Models - 
+	Support - HtmlHelper, InputHelper, etc
 
-alteracao nova
+* bootstrap - 
+
+* css - estilos das páginas
+
+* images - 
+
+* views - vista do Header + Footer
+		vista das páginas usadas
+	* users - 
