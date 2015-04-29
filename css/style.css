@@ -1,3 +1,5 @@
+@charset "utf-8";
+
 .headerBarra {    
     width: 100%;
     height: auto;
@@ -6,3 +8,34 @@
     padding: 5px 0px;
 }
 
+body {
+	margin: 1em;
+}
+
+table {
+	border-collapse: collapse;
+	margin: 2em 0;
+	width: 80%;
+}
+
+th {
+	background-color: #000; 
+	color: #fff;
+}
+
+td, th {
+	border: 1px solid #eee;
+}
+
+table form {
+	display:inline;
+}
+
+form > div {
+	margin-bottom: 1em
+}
+
+.error {
+	font-size: 80%;
+	color:red;
+}
