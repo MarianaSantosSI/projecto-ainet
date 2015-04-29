@@ -4,11 +4,12 @@
 
 
 * Ainet - 
-	Controllers - controlo de Autenticação, etc
-	Models - 
-	Support - HtmlHelper, InputHelper, etc
+	* Controllers - controlo de Autenticação, etc
+	* Models - 
+	* Support - HtmlHelper, InputHelper, etc
 
 * bootstrap - 
+	* (pastas do bootstrap)
 
 * css - estilos das páginas
 
